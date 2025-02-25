@@ -1,0 +1,25 @@
+# Ignorar arquivos de compilação
+target/
+
+# Ignorar arquivos de configuração do Cargo
+Cargo.lock
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração do IDE (exemplo para IntelliJ)
+.idea/
+*.iml
+
+# Ignorar arquivos gerados por testes
+*.prof
+
+# Ignorar arquivos de backup
+*~
