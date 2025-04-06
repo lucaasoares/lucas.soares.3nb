@@ -107,7 +107,7 @@ impl BST {
 }
 
 //Seguinte professor, o codigo só rodou com os dois test por que a mesma coisa que tá dentro da pasta lib.rs também está dentro da pasta main.rs, caso não esteja dentro a lib.rs não funciona
-//Usei o pub para deixar todas as coisas publicas e elas rodarem somente na lib.rs, por que ele não queria rodar a lib.rs se não tivesse esse pub, ainda não entendi direito o por que disso, pesquisei mas ainda não entendi 100%.
+//Usei o pub para deixar todas as coisas publicas e elas rodarem somente na lib.rs, por que ele não queria rodar a lib.rs se não tivesse esse pub, ainda não entendi direito o por que disso, pesquisei mas ainda não entendi 100%
 //Observação dois, fiquei pouco tempo pra arrumar o codigo certinho, tive muita duivda do por que rodava dois testes, um deles sendo aquele doctest, mas entendi que são
 //dois testes diferentes, e que o docs não rodou nenhum teste por que não coloquei nenhum doctest, pelo o que pesquisei, era possivel sim eu colocar uns comentarios e usar o doc test
 //mas não achei necessario perder tempo com isso, então fiz de uma forma mais simples e que fosse facil de entender.
