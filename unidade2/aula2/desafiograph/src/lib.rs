@@ -68,3 +68,4 @@ mod tests {
         assert_eq!(result.first(), Some(&"1"), "DFS deve começar pelo nó 1");
     }
 }
+//gpt ajudou bastante nesse.
